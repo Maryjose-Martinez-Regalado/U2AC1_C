@@ -1,0 +1,14 @@
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\bin\Debug\netcoreapp3.1\appParaAprovarAlumnos.exe
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\bin\Debug\netcoreapp3.1\appParaAprovarAlumnos.deps.json
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\bin\Debug\netcoreapp3.1\appParaAprovarAlumnos.runtimeconfig.json
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\bin\Debug\netcoreapp3.1\appParaAprovarAlumnos.runtimeconfig.dev.json
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\bin\Debug\netcoreapp3.1\appParaAprovarAlumnos.dll
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\bin\Debug\netcoreapp3.1\appParaAprovarAlumnos.pdb
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\obj\Debug\netcoreapp3.1\appParaAprovarAlumnos.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\obj\Debug\netcoreapp3.1\appParaAprovarAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\obj\Debug\netcoreapp3.1\appParaAprovarAlumnos.AssemblyInfoInputs.cache
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\obj\Debug\netcoreapp3.1\appParaAprovarAlumnos.AssemblyInfo.cs
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\obj\Debug\netcoreapp3.1\appParaAprovarAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\obj\Debug\netcoreapp3.1\appParaAprovarAlumnos.dll
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\obj\Debug\netcoreapp3.1\appParaAprovarAlumnos.pdb
+C:\Users\Tecnologico\source\repos\appParaAprovarAlumnos\obj\Debug\netcoreapp3.1\appParaAprovarAlumnos.genruntimeconfig.cache
